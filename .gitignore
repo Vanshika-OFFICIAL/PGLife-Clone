@@ -1,0 +1,11 @@
+# Ignore system-specific files and folders
+*.log
+*.bak
+*.swp
+AppData/
+Documents/
+Downloads/
+OneDrive/
+ntuser.dat*
+.vscode/
+.idea/
