@@ -1,0 +1,63 @@
+.breadcrumb{
+    list-style: none;
+    display: flex;
+    background-color: #E3E5E8;
+    height: 36PX;
+    align-items: center;
+
+}
+.breadcrumb-item{
+    font-size: 13PX;
+    color: ;
+}
+
+.page-conatiner{
+    width: 800px;
+    padding: 80px 24px;
+    margin:auto;
+}
+h1{
+    font-size: 36px;
+    color: #373737;
+    margin-bottom: 40px;
+    font-weight: 600px;
+    height: 44px;
+}
+.profile_img-container{
+    color: #7d7d7d;
+    font-size: 75px;
+    border: 1px solid #e4e4e4;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    
+    
+}
+.row {
+    display: flex;
+   flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    height: 96px;
+}
+.fa-user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit{
+    height: 15px;
+    font-size: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+    justify-content: flex-end;
+}
+.col-md-9{
+    display: flex;
+
+}
+.my-interested-properties {
+    background-color: #fcfaf7;
+}
