@@ -8,7 +8,7 @@
 }
 .breadcrumb-item{
     font-size: 13PX;
-    color: ;
+    color:black ;
 }
 
 .page-conatiner{
@@ -60,4 +60,45 @@ h1{
 }
 .my-interested-properties {
     background-color: #fcfaf7;
+    padding: 40px 24px;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.property-card{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.img-container{
+    flex-direction: 0 0 150px;
+    max-width: 150px;
+   
+}
+.img-container img{
+    width: 100%;
+    height: auto;
+    display: block;
+
+}
+.content-container{
+    padding: 16px;
+    flex:1;
+}
+.star-container,.interested-container,.detail-container{
+    margin-bottom: 8px;
+}
+.property-name{
+    font-weight: 600;
+    font-size: 18px;
+}
+.property-address{
+    font-size: 14px;
+    color: #666;
 }

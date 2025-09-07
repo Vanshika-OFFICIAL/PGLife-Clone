@@ -33,6 +33,7 @@
     height: 35.5px;
     align-items: center;
     color: rgba(0, 0, 0, .5);
+    cursor: pointer;
 }
 
 .signup{
@@ -46,6 +47,10 @@
     border-left: 2px solid wheat;
     padding-left: 25PX;
     
+}
+.clicked{
+    transform: scale(0.95);
+    background-color: #004494;
 }
 
 /**footer**/
