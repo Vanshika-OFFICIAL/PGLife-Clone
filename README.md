@@ -1,20 +1,26 @@
-# 🏠 PGLife-Clone
+# 🏠 PGLife Clone
 
-A responsive front-end clone of the **PGLife** website built using **HTML**, **CSS**, and **Bootstrap**.  
-It allows users to browse PG accommodations by city with a clean and user-friendly interface.
+A responsive **front-end clone** of the PGLife website built using **HTML, CSS, and Bootstrap**.  
+This project showcases a modern UI that helps users explore PG accommodations city-wise with ease.  
 
-## 📌 Features
+🌐 **Live Demo:** [PGLife-Clone](https://vanshika-official.github.io/PGLife-Clone/)
 
-- 🌆 City-wise PG listing layout
-- 📱 Responsive design for all devices
-- 💅 UI built with Bootstrap for modern styling
-- 🔍 Easy navigation through intuitive layout
+---
 
-## 🛠️ Tech Stack
+## ✨ Key Highlights
 
-- HTML
-- CSS
-- Bootstrap
+- 🌆 **City-wise PG Listings** – browse PGs by location  
+- 📱 **Fully Responsive** – optimized for desktop, tablet & mobile  
+- 🎨 **Bootstrap Powered** – clean and modern UI components  
+- ⚡ **Fast Navigation** – lightweight static pages  
 
+---
 
+## 🛠️ Built With
+
+- **HTML5** – semantic structure  
+- **CSS3** – custom styling  
+- **Bootstrap** – responsive grid & UI components  
+
+## 📂 Folder Structure
 
